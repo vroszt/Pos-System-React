@@ -1,0 +1,4 @@
+1. Run yarn and then yarn dev:web in the project root.
+1. Navigate to the api folder and then run yarn, then yarn dev:api.
+
+If it complains about packages then please contact me
