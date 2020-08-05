@@ -1,3 +1,5 @@
+A POS System that connects to a database for buying and selling products.
+
 # README #
 
 1. Run yarn and then yarn dev:web in the project root.
